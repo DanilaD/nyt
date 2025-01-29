@@ -102,5 +102,5 @@ php artisan test
 
 ## Conclusion
 
-This API provides an efficient way to fetch, cache, and store NYT best-seller book data while ensuring performance optimization through caching and queue-based processing. 🚀
+This API provides an efficient way to fetch, cache, and store NYT best-seller book data while ensuring performance optimization through caching and queue-based processing.
 
